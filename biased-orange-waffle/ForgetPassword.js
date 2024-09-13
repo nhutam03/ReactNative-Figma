@@ -1,7 +1,7 @@
 import { Text, View, StyleSheet, Image, Pressable } from 'react-native';
 import {useState} from 'react'
 
-export default function Screen_1a() {
+export default function ForgetPassword() {
 
   const [nextBtnActive, setNextBtnActive] = useState(false)
 

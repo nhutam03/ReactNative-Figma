@@ -1,7 +1,7 @@
 import {Text, View, StyleSheet, Image, Pressable, TextInput, Link} from 'react-native';
 import { useState } from 'react';
   
-  export default function Screen_1a() {
+  export default function Login() {
     const [nextBtnActive, setNextBtnActive] = useState(false);
   
     return (
